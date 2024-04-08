@@ -1,8 +1,8 @@
 # tomasz-ai-blog
-
-Stop Brute Force AI 4-7-24
-
 Just a place where I put my thoughts and notes on AI (reverse chronological order).
+
+## Stop Brute Force AI 4-7-24
+
 
 I did my undergrad in Applied Math. One of the most beautiful thing about math is the elegance of proofs. In math, we don't like to prove things "brute force"... even though that's technically a valid proof. We like to deductively, step-by-step, compose a proof.
 
