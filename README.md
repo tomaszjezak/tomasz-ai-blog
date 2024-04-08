@@ -1,7 +1,7 @@
 # tomasz-ai-blog
 Just a place where I put my thoughts and notes on AI (reverse chronological order).
 
-##(Draft) Deductive AI v 0.0.1 (4-7-24)
+## (Draft) Deductive AI v 0.0.1 (4-7-24)
 
 The answer to deductive AI might be in category theory. Let's start by simply teaching an agent to construct math. We will provide it some axioms and have it learn to deduce from the axioms various things. We'd likely have to construct a model from scratch, as I am paranoid that using some open source model will just regurgitate some memorized bullshit about math and make me think it's deducing, when in fact it's simply repeating what it's memorized... 
 
